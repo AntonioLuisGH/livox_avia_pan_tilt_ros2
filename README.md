@@ -84,7 +84,7 @@ We have created a single launch file that starts the entire pipeline:
 ### Run the System
 
 ```bash
-ros2 launch simple_pan_tilt pan_tilt.launch.py
+ros2 launch simple_pan_tilt pan_tilt.launch.py 
 ```
 
 ---
